@@ -1,0 +1,54 @@
+#comment{
+	margin: 15px 5px;
+    padding: 3px 10px 3px 45px;
+    font-size: 12px;
+    margin-bottom: 2px;
+    position: relative;
+    min-height: 30px;
+}
+#comment img{
+	position: absolute;
+    top: 4px;
+    left: 4px;
+    height: 30px;
+    width: 30px;
+}
+#comment .strip{
+    padding: 3px 0;
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+#comment #buttons span{
+	display: inline-block;
+	margin-right: 5px;
+	cursor: pointer;
+}
+#comment #block{
+    margin: 10px 0;
+    border-top: 1px solid #d4d5d9;
+    padding-top: 5px;
+    border-bottom: 1px solid #d4d5d9;
+}
+#comment #reply{
+	position: relative;
+    padding: 5px 0 5px 35px;
+}
+#comment #reply img{
+	position: absolute;
+    top: 0;
+    left: 7px;
+    height: 20px;
+    width: 20px;
+}
+#comment #reply input{
+	width: 95%;
+    height: 20px;
+    padding-left: 5px;
+    box-shadow:0px 2px 8px #d4d5d9;
+    border:1px solid #d4d5d9;
+}
+.top-7{
+    top: 7px !important;
+}
+
+
