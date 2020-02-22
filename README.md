@@ -1,6 +1,6 @@
 # Fb Live Post and Comment
 
-# see live demo https://devansh-react-socketio.herokuapp.com/
+see live demo https://devansh-react-socketio.herokuapp.com/
 Try to load this app from different Ips and you can see the socket IO magic.
 
 
